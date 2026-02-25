@@ -1,0 +1,79 @@
+E:\Visual Studio\Projects\PodborPersonala\PodborPersonala\bin\Debug\PodborPersonala.exe.config
+E:\Visual Studio\Projects\PodborPersonala\PodborPersonala\bin\Debug\PodborPersonala.exe
+E:\Visual Studio\Projects\PodborPersonala\PodborPersonala\bin\Debug\PodborPersonala.pdb
+E:\Visual Studio\Projects\PodborPersonala\PodborPersonala\bin\Debug\MetroFramework.Design.dll
+E:\Visual Studio\Projects\PodborPersonala\PodborPersonala\bin\Debug\MetroFramework.dll
+E:\Visual Studio\Projects\PodborPersonala\PodborPersonala\bin\Debug\MetroFramework.Fonts.dll
+E:\Visual Studio\Projects\PodborPersonala\PodborPersonala\obj\Debug\PodborPersonala.csproj.AssemblyReference.cache
+E:\Visual Studio\Projects\PodborPersonala\PodborPersonala\obj\Debug\PodborPersonala.csproj.SuggestedBindingRedirects.cache
+E:\Visual Studio\Projects\PodborPersonala\PodborPersonala\obj\Debug\PodborPersonala.Properties.Resources.resources
+E:\Visual Studio\Projects\PodborPersonala\PodborPersonala\obj\Debug\PodborPersonala.csproj.GenerateResource.cache
+E:\Visual Studio\Projects\PodborPersonala\PodborPersonala\obj\Debug\PodborPersonala.csproj.CoreCompileInputs.cache
+E:\Visual Studio\Projects\PodborPersonala\PodborPersonala\obj\Debug\PodborPersonala.csproj.CopyComplete
+E:\Visual Studio\Projects\PodborPersonala\PodborPersonala\obj\Debug\PodborPersonala.exe
+E:\Visual Studio\Projects\PodborPersonala\PodborPersonala\obj\Debug\PodborPersonala.pdb
+E:\Visual Studio\Projects\PodborPersonala\PodborPersonala\obj\Debug\PodborPersonala.LoginForm.resources
+E:\Visual Studio\Projects\PodborPersonala\PodborPersonala\obj\Debug\PodborPersonala.Menu.resources
+E:\Visual Studio\Projects\PodborPersonala\PodborPersonala\obj\Debug\PodborPersonala.SelectedCandidates.resources
+E:\Visual Studio\Projects\PodborPersonala\PodborPersonala\obj\Debug\PodborPersonala.Resume.resources
+E:\Visual Studio\Projects\PodborPersonala\PodborPersonala\obj\Debug\PodborPersonala.AcceptedInterviews.resources
+E:\Visual Studio\Projects\PodborPersonala\PodborPersonala\obj\Debug\PodborPersonala.RejectedInterviews.resources
+E:\Visual Studio\Projects\PodborPersonala\PodborPersonala\obj\Debug\PodborPersonala.ExpectedInterviews.resources
+E:\Visual Studio\Projects\PodborPersonala\PodborPersonala\obj\Debug\PodborPersonala.Decision.resources
+E:\Visual Studio\Projects\PodborPersonala\PodborPersonala\obj\Debug\PodborPersonala.DeleteInterviews.resources
+E:\Visual Studio\Projects\PodborPersonala\PodborPersonala\obj\Debug\PodborPersonala.PassingTheInterview.resources
+E:\Visual Studio\Projects\PodborPersonala\PodborPersonala\obj\Debug\PodborPersonala.ConclusionEmploymentContract.resources
+E:\Visual Studio\Projects\PodborPersonala\PodborPersonala\obj\Debug\PodborPersonala.EmploymentContract.resources
+E:\Visual Studio\Projects\PodborPersonala\PodborPersonala\obj\Debug\PodborPersonala.PrintEmploymentContract.resources
+D:\ВКР\PodborPersonala\PodborPersonala\bin\Debug\PodborPersonala.exe.config
+D:\ВКР\PodborPersonala\PodborPersonala\bin\Debug\PodborPersonala.exe
+D:\ВКР\PodborPersonala\PodborPersonala\bin\Debug\PodborPersonala.pdb
+D:\ВКР\PodborPersonala\PodborPersonala\bin\Debug\MetroFramework.Design.dll
+D:\ВКР\PodborPersonala\PodborPersonala\bin\Debug\MetroFramework.dll
+D:\ВКР\PodborPersonala\PodborPersonala\bin\Debug\MetroFramework.Fonts.dll
+D:\ВКР\PodborPersonala\PodborPersonala\obj\Debug\PodborPersonala.csproj.AssemblyReference.cache
+D:\ВКР\PodborPersonala\PodborPersonala\obj\Debug\PodborPersonala.PrintEmploymentContract.resources
+D:\ВКР\PodborPersonala\PodborPersonala\obj\Debug\PodborPersonala.EmploymentContract.resources
+D:\ВКР\PodborPersonala\PodborPersonala\obj\Debug\PodborPersonala.ConclusionEmploymentContract.resources
+D:\ВКР\PodborPersonala\PodborPersonala\obj\Debug\PodborPersonala.PassingTheInterview.resources
+D:\ВКР\PodborPersonala\PodborPersonala\obj\Debug\PodborPersonala.DeleteInterviews.resources
+D:\ВКР\PodborPersonala\PodborPersonala\obj\Debug\PodborPersonala.RejectedInterviews.resources
+D:\ВКР\PodborPersonala\PodborPersonala\obj\Debug\PodborPersonala.ExpectedInterviews.resources
+D:\ВКР\PodborPersonala\PodborPersonala\obj\Debug\PodborPersonala.LoginForm.resources
+D:\ВКР\PodborPersonala\PodborPersonala\obj\Debug\PodborPersonala.Menu.resources
+D:\ВКР\PodborPersonala\PodborPersonala\obj\Debug\PodborPersonala.Properties.Resources.resources
+D:\ВКР\PodborPersonala\PodborPersonala\obj\Debug\PodborPersonala.Decision.resources
+D:\ВКР\PodborPersonala\PodborPersonala\obj\Debug\PodborPersonala.Resume.resources
+D:\ВКР\PodborPersonala\PodborPersonala\obj\Debug\PodborPersonala.AcceptedInterviews.resources
+D:\ВКР\PodborPersonala\PodborPersonala\obj\Debug\PodborPersonala.SelectedCandidates.resources
+D:\ВКР\PodborPersonala\PodborPersonala\obj\Debug\PodborPersonala.csproj.GenerateResource.cache
+D:\ВКР\PodborPersonala\PodborPersonala\obj\Debug\PodborPersonala.csproj.CoreCompileInputs.cache
+D:\ВКР\PodborPersonala\PodborPersonala\obj\Debug\PodborPe.6C63E966.Up2Date
+D:\ВКР\PodborPersonala\PodborPersonala\obj\Debug\PodborPersonala.exe
+D:\ВКР\PodborPersonala\PodborPersonala\obj\Debug\PodborPersonala.pdb
+D:\файлы с флешки\ВКР\PodborPersonala\PodborPersonala\bin\Debug\PodborPersonala.exe.config
+D:\файлы с флешки\ВКР\PodborPersonala\PodborPersonala\bin\Debug\PodborPersonala.exe
+D:\файлы с флешки\ВКР\PodborPersonala\PodborPersonala\bin\Debug\PodborPersonala.pdb
+D:\файлы с флешки\ВКР\PodborPersonala\PodborPersonala\bin\Debug\MetroFramework.Design.dll
+D:\файлы с флешки\ВКР\PodborPersonala\PodborPersonala\bin\Debug\MetroFramework.dll
+D:\файлы с флешки\ВКР\PodborPersonala\PodborPersonala\bin\Debug\MetroFramework.Fonts.dll
+D:\файлы с флешки\ВКР\PodborPersonala\PodborPersonala\obj\Debug\PodborPersonala.csproj.AssemblyReference.cache
+D:\файлы с флешки\ВКР\PodborPersonala\PodborPersonala\obj\Debug\PodborPersonala.PrintEmploymentContract.resources
+D:\файлы с флешки\ВКР\PodborPersonala\PodborPersonala\obj\Debug\PodborPersonala.EmploymentContract.resources
+D:\файлы с флешки\ВКР\PodborPersonala\PodborPersonala\obj\Debug\PodborPersonala.ConclusionEmploymentContract.resources
+D:\файлы с флешки\ВКР\PodborPersonala\PodborPersonala\obj\Debug\PodborPersonala.PassingTheInterview.resources
+D:\файлы с флешки\ВКР\PodborPersonala\PodborPersonala\obj\Debug\PodborPersonala.DeleteInterviews.resources
+D:\файлы с флешки\ВКР\PodborPersonala\PodborPersonala\obj\Debug\PodborPersonala.RejectedInterviews.resources
+D:\файлы с флешки\ВКР\PodborPersonala\PodborPersonala\obj\Debug\PodborPersonala.ExpectedInterviews.resources
+D:\файлы с флешки\ВКР\PodborPersonala\PodborPersonala\obj\Debug\PodborPersonala.LoginForm.resources
+D:\файлы с флешки\ВКР\PodborPersonala\PodborPersonala\obj\Debug\PodborPersonala.Menu.resources
+D:\файлы с флешки\ВКР\PodborPersonala\PodborPersonala\obj\Debug\PodborPersonala.Properties.Resources.resources
+D:\файлы с флешки\ВКР\PodborPersonala\PodborPersonala\obj\Debug\PodborPersonala.Decision.resources
+D:\файлы с флешки\ВКР\PodborPersonala\PodborPersonala\obj\Debug\PodborPersonala.Resume.resources
+D:\файлы с флешки\ВКР\PodborPersonala\PodborPersonala\obj\Debug\PodborPersonala.AcceptedInterviews.resources
+D:\файлы с флешки\ВКР\PodborPersonala\PodborPersonala\obj\Debug\PodborPersonala.SelectedCandidates.resources
+D:\файлы с флешки\ВКР\PodborPersonala\PodborPersonala\obj\Debug\PodborPersonala.csproj.GenerateResource.cache
+D:\файлы с флешки\ВКР\PodborPersonala\PodborPersonala\obj\Debug\PodborPersonala.csproj.CoreCompileInputs.cache
+D:\файлы с флешки\ВКР\PodborPersonala\PodborPersonala\obj\Debug\PodborPe.6C63E966.Up2Date
+D:\файлы с флешки\ВКР\PodborPersonala\PodborPersonala\obj\Debug\PodborPersonala.exe
+D:\файлы с флешки\ВКР\PodborPersonala\PodborPersonala\obj\Debug\PodborPersonala.pdb
